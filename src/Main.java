@@ -12,5 +12,13 @@ public class Main {
         for (int i = 1; i < 10; i += 2) {
             System.out.println(i);
         }
+
+        int sayi = 1;
+        while (sayi < 10) {
+            System.out.println(sayi);
+            sayi += 2;
+        }
+        System.out.println("while döngüsü sonlandı.");
     }
+
 }

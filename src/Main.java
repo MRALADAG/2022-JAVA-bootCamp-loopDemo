@@ -19,6 +19,13 @@ public class Main {
             sayi += 2;
         }
         System.out.println("while döngüsü sonlandı.");
+
+        System.out.println("\nShown odd numbers using do-while loop");
+        int j = 1;
+        do {
+            j += 2;
+            System.out.println(j);
+        } while (j < 10);
     }
 
 }

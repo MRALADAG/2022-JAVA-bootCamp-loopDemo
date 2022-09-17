@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2eacb3dd-b66c-4081-8d6d-d195447a6986" name="Changes" comment="loop exercises">
+    <list default="true" id="2eacb3dd-b66c-4081-8d6d-d195447a6986" name="Changes" comment="added while loop exercises">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -66,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663412608499</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added while loop exercises">
+      <created>1663414085777</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663414085777</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="loop exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="loop exercises" />
+    <MESSAGE value="added while loop exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="added while loop exercises" />
   </component>
 </project>
